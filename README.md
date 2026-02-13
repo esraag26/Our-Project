@@ -1,2 +1,3 @@
 # Our-Project
-this is out project
+this is our project
+
